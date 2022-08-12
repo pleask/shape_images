@@ -128,5 +128,7 @@ def get_positions(canvas_size, count):
 
 
 ORANGE = (255, 166, 0)
+PURPLE = (88, 80, 141)
+SALMON = (255, 99, 97)
 PINK = (188, 87, 144)
 BLUE = (0, 66, 92)
